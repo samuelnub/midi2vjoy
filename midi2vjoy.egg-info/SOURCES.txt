@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+midi2vjoy/midi2vjoy.py
+midi2vjoy.egg-info/PKG-INFO
+midi2vjoy.egg-info/SOURCES.txt
+midi2vjoy.egg-info/dependency_links.txt
+midi2vjoy.egg-info/entry_points.txt
+midi2vjoy.egg-info/not-zip-safe
+midi2vjoy.egg-info/requires.txt
+midi2vjoy.egg-info/top_level.txt
